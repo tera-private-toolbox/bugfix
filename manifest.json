@@ -4,8 +4,8 @@
 		"module.json": "c02f007528f099092d9fec8f27e34f92fbd0d252f14a076b5d0887638c32cfad",
 		"lib/chat-sanitizer.js": "527ee0ea6b2773ebc9841a50c044d087c73e59534c447e364a0ee65ff022e81c",
 		"lib/swim-fix.js": "30dadfa58eaa4057e41a6e5139f8f793da9b793885753356b120bdabeaeae12a",
-		"README.md": "92fbbdcdc2dc4dc36685c128e16ae7ed4b120f37abcccb2e62e45e12fe41a109",
-		"lib/menma-fix.js": "bee42861ff7d48acf051ebb777c2cad6d220d61fdd6b3f060ddbfcb505de147d",
+		"README.md": "1822343106022d4d1d8af5e296947db29167bc9ec956779a50bb5f700a94918c",
+		"lib/menma-fix.js": "71db884dd7414dc5fb85b96db8e09e5e38b327df6421fca680920b0bed65189f",
 		"lib/private-channel-fix.js": "4c2f81520db86f0398e8b92523f2608cbd21193344319470c93190e816c47295",
 		"lib/delayed-buffs-fix.js": "c8f2595047138584a9ff9a764e21b33b795ce6948e56c6e63387fb21af5ae038",
 		"lib/grownAbnormals.js": "cdd09f37cc0e27511e2c4def2bbf3957bae24368d0398b251d13a4301c05979d"
