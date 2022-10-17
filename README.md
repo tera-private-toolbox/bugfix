@@ -8,4 +8,4 @@ Collection of mods that fix some of the most severe client bugs in TERA.
 * Fixes a bug where ngsp silence effect at TSHM 2nd boss and missing hp bar at FIHM 3rd boss.
 * Fixes a regression introduced in patch 90 causing private channels to not show up properly in your chat window when re-joining them on login.
 * Fixes a bug where staying still in the water will spam duplicate location packets, causing the server to disconnect the player.
-* Fixes an attackSpeed and attackSpeedBonus on Menma's TERA.
+* Fixes a problem with attackSpeed and attackSpeedBonus when ngsp is used on Menma's TERA.
