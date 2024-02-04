@@ -8,6 +8,7 @@
 		"lib/menma-fix.js": "4735cf80252e3793aadda04223e43dfadd124c397fdcb140bef11fb1add48668",
 		"lib/private-channel-fix.js": "4c2f81520db86f0398e8b92523f2608cbd21193344319470c93190e816c47295",
 		"lib/delayed-buffs-fix.js": "c8f2595047138584a9ff9a764e21b33b795ce6948e56c6e63387fb21af5ae038",
-		"lib/grownAbnormals.js": "cdd09f37cc0e27511e2c4def2bbf3957bae24368d0398b251d13a4301c05979d"
+		"lib/grownAbnormals.js": "cdd09f37cc0e27511e2c4def2bbf3957bae24368d0398b251d13a4301c05979d",
+		"lib/gear-upgrade-crash-fix.js": "055519ebeefced10960340d53cfbed6b6fee8b2fc4b1ac5c32167a69bad707e5"
 	}
 }
