@@ -1,6 +1,6 @@
 {
 	"files": {
-		"index.js": "2210b719a84086b1c5ddfe72fca46abbb7bab0cb4aae6d683781d6da4e9a648b",
+		"index.js": "6c675389133060a7d5c4f465f011e3d2b6553b82bcb0d6c0cda8f6e7dc46667f",
 		"module.json": "c02f007528f099092d9fec8f27e34f92fbd0d252f14a076b5d0887638c32cfad",
 		"lib/chat-sanitizer.js": "527ee0ea6b2773ebc9841a50c044d087c73e59534c447e364a0ee65ff022e81c",
 		"lib/swim-fix.js": "30dadfa58eaa4057e41a6e5139f8f793da9b793885753356b120bdabeaeae12a",
